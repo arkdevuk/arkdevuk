@@ -1,5 +1,5 @@
 # Hello There (general kenobi), welcome to my Github page 🦉🐨
-
+![Alt Text](https://media3.giphy.com/media/8JTFsZmnTR1Rs1JFVP/200.gif)
 <!--
 **arkdevuk/arkdevuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
