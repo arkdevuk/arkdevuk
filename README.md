@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Ark</h1>
- <img align="center" src="https://media3.giphy.com/media/8JTFsZmnTR1Rs1JFVP/200.gif" alt="hellothere"/>
+<p align="center"><img align="center" src="https://media3.giphy.com/media/8JTFsZmnTR1Rs1JFVP/200.gif" alt="hellothere"/></p>
 <h3 align="center">A passionate TechLead/developer from southern France</h3>
 
 <h3 align="left">Languages and Tools:</h3>
