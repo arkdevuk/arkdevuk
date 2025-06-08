@@ -1,7 +1,8 @@
 <h1 align="center">Hey 👋, I'm Ark</h1>
 <p align="center">
-  <img src="https://media3.giphy.com/media/8JTFsZmnTR1Rs1JFVP/200.gif" alt="hellothere" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVlYnMxYXluZmNlZjJ6c2Y1NmY3dzFrNG5ub3F5NGRzeDgzaDduMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" alt="hellothere" />
 </p>
+
 
 <h3 align="center">Tech Leader · Hacker at heart · Builder of curious things</h3>
 
