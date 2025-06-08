@@ -12,14 +12,17 @@
 - 🕷️ <strong>Cybersecurity:</strong> Pentester since my teens. Bug bounty hunter. Occasional CTF player (HackTheBox). Passionate about breaking web apps & infrastructure.
 - ⚙️ <strong>DevOps:</strong> Docker evangelist & Kubernetes adopter. I guide teams toward resilient, scalable infrastructures.
 - 🤖 <strong>AI & Automation:</strong> Exploring LLMs and building pipelines to automate the boring (and not-so-boring) stuff.
+- 📣 <strong>Digital Marketing & SEO:</strong> Passionate about brand-building, visibility, and multi-channel strategy. I help tech stand out through smart content and authority-first positioning.
 
 ---
 
 🚀 <strong>Side Projects I'm building or breaking:</strong>
 
 - 🧪 <strong>TestGator (beta):</strong> Open source tool to bring non-tech users into your QA workflow — zero friction.
-- 🤖 <strong>Robotics:</strong> Rebuilding a Cozmo robot with CV, emotion engine, and AI — making it more curious than ever.
 - 🏎️ <strong>Racecar Embed:</strong> ⚠️ Under wraps for now. Stay tuned.
+- 🤖 <strong>Robotics:</strong> Rebuilding a Cozmo robot with CV, emotion engine, and AI — making it more curious than ever.
+![image](https://github.com/user-attachments/assets/68c49cf7-f7fb-4b2f-978e-30204e58aee0)
+
 
 ---
 
