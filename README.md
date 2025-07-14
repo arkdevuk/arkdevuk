@@ -27,6 +27,9 @@
 - 🤖 <strong>Robotics:</strong> Rebuilding a Cozmo robot with CV, emotion engine, and AI — making it more curious than ever.
 ![image](https://github.com/user-attachments/assets/68c49cf7-f7fb-4b2f-978e-30204e58aee0)
 
+- 🧠 <strong>Agentic LLM Suite:</strong> A simple tool to generate agentic LLM workflow that start with simple webhook and can use external tools. Using both OpenAI & Ollama.
+<img width="1512" height="858" alt="image" src="https://github.com/user-attachments/assets/7febdada-2487-4d41-84e5-426cdf618668" />
+
 
 ---
 
