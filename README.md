@@ -29,7 +29,7 @@
 - 🤖 <strong>Robotics:</strong> Building a custom desktop companion to help me stay focused (a Pomodoro and task assistant) — with a few unique twists ! (using some tech from Cozmo's project above like emotion engine, AI integration, ...)
 ![image](https://github.com/user-attachments/assets/f02fba21-b7bc-4c25-85d1-ee1d1d4da0a1)
 
-- 🧠 <strong>Legions :</strong> A simple tool to generate agentic LLM workflow that start with simple webhook and can use external tools. Capable of using/mixing Anthropic, OpenAI or event OpenWebUI API as LLM backends.
+- 🧠 <strong>Legions :</strong> A simple tool to generate agentic LLM workflow that start with simple webhook and can use external tools. Capable of using/mixing Anthropic, OpenAI or even OpenWebUI API as LLM backends.
 <img width="1511" height="861" alt="image" src="https://github.com/user-attachments/assets/5d3297a2-27f3-4157-9785-04d54034eb8d" />
 <img width="1511" height="861" alt="image" src="https://github.com/user-attachments/assets/aa853677-0424-4511-a05f-8ba4d5ed4f6f" />
 <img width="1511" height="861" alt="image" src="https://github.com/user-attachments/assets/37bbd9ab-7d86-48ad-b7ae-ec9e50d15890" />
