@@ -31,8 +31,11 @@
 
 - 🧠 <strong>Legions :</strong> A simple tool to generate agentic LLM workflow that start with simple webhook and can use external tools. Capable of using/mixing Anthropic, OpenAI or even OpenWebUI API as LLM backends.
 <img width="1511" height="861" alt="image" src="https://github.com/user-attachments/assets/5d3297a2-27f3-4157-9785-04d54034eb8d" />
-<img width="1511" height="861" alt="image" src="https://github.com/user-attachments/assets/aa853677-0424-4511-a05f-8ba4d5ed4f6f" />
-<img width="1511" height="861" alt="image" src="https://github.com/user-attachments/assets/37bbd9ab-7d86-48ad-b7ae-ec9e50d15890" />
+<img width="1502" height="856" alt="image" src="https://github.com/user-attachments/assets/028386be-8d27-445b-a2db-a04b8a85cc0c" />
+<img width="1502" height="856" alt="image" src="https://github.com/user-attachments/assets/b968d04a-0d66-456a-b6db-7e8b897379f6" />
+<img width="1502" height="856" alt="image" src="https://github.com/user-attachments/assets/47322206-976a-49f8-8c99-ece280057040" />
+
+
 
 
 
