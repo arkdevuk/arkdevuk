@@ -20,8 +20,9 @@
 
 🚀 <strong>Side Projects I'm building or breaking:</strong>
 
-- 🧪 <strong>TestGator (beta):</strong> Open source tool to bring non-tech users into your QA workflow — zero friction.
-![image](https://github.com/user-attachments/assets/216939be-68ca-4948-8ca5-89f62356213d)
+- 🧪 <strong>[TestGator (beta)](https://github.com/arkdevuk/testgator):</strong> Open source tool to bring non-tech users into your QA workflow — zero friction. see https://testgator.app/
+<img width="621" height="483" alt="image" src="https://github.com/user-attachments/assets/9e22907b-442d-4467-8f65-5a3f22345156" />
+
 
 - 🏎️ <strong>Racecar Embed:</strong> ⚠️ Under wraps for now. Stay tuned.
 - 🤖 <strong>Robotics:</strong> Rebuilding a Cozmo robot with CV, emotion engine, and AI — making it more curious than ever.
